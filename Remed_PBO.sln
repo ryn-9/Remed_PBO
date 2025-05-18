@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remed_PBO", "Remed_PBO\Remed_PBO.csproj", "{4A85C313-FB37-4940-8C20-5C5339BC49B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A85C313-FB37-4940-8C20-5C5339BC49B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A85C313-FB37-4940-8C20-5C5339BC49B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A85C313-FB37-4940-8C20-5C5339BC49B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A85C313-FB37-4940-8C20-5C5339BC49B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5609744-46CD-456D-91EB-D453A29731E1}
+	EndGlobalSection
+EndGlobal
